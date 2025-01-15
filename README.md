@@ -1,0 +1,1 @@
+Stav projektu - nedokončen
