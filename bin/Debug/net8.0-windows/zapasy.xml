@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfZapas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Zapas>
+    <Domaci>Real Madrid</Domaci>
+    <Hoste>Stuttgart</Hoste>
+    <KurzDomaci>1.31</KurzDomaci>
+    <KurzRemiza>5.98</KurzRemiza>
+    <KurzHoste>9.36</KurzHoste>
+    <Vysledek>domaci</Vysledek>
+  </Zapas>
+  <Zapas>
+    <Domaci>Manchester City</Domaci>
+    <Hoste>Inter Milan</Hoste>
+    <KurzDomaci>1.38</KurzDomaci>
+    <KurzRemiza>5.21</KurzRemiza>
+    <KurzHoste>8.67</KurzHoste>
+    <Vysledek>remiza</Vysledek>
+  </Zapas>
+  <Zapas>
+    <Domaci>AC Milan</Domaci>
+    <Hoste>Liverpool</Hoste>
+    <KurzDomaci>3.69</KurzDomaci>
+    <KurzRemiza>3.80</KurzRemiza>
+    <KurzHoste>2.02</KurzHoste>
+    <Vysledek>hoste</Vysledek>
+  </Zapas>
+  <Zapas>
+    <Domaci>Monako</Domaci>
+    <Hoste>FC Barcelona</Hoste>
+    <KurzDomaci>4.40</KurzDomaci>
+    <KurzRemiza>4.29</KurzRemiza>
+    <KurzHoste>1.76</KurzHoste>
+    <Vysledek>domaci</Vysledek>
+  </Zapas>
+  <Zapas>
+    <Domaci>Atalanta</Domaci>
+    <Hoste>Arsenal</Hoste>
+    <KurzDomaci>4.20</KurzDomaci>
+    <KurzRemiza>3.69</KurzRemiza>
+    <KurzHoste>1.92</KurzHoste>
+    <Vysledek>remiza</Vysledek>
+  </Zapas>
+  <Zapas>
+    <Domaci>Arsenal</Domaci>
+    <Hoste>PSG</Hoste>
+    <KurzDomaci>1.73</KurzDomaci>
+    <KurzRemiza>3.83</KurzRemiza>
+    <KurzHoste>5.24</KurzHoste>
+    <Vysledek>domaci</Vysledek>
+  </Zapas>
+  <Zapas>
+    <Domaci>Stuttgart</Domaci>
+    <Hoste>Sparta Praha</Hoste>
+    <KurzDomaci>1.38</KurzDomaci>
+    <KurzRemiza>5.41</KurzRemiza>
+    <KurzHoste>7.92</KurzHoste>
+    <Vysledek>remiza</Vysledek>
+  </Zapas>
+  <Zapas>
+    <Domaci>Atletico Madrid</Domaci>
+    <Hoste>Lille</Hoste>
+    <KurzDomaci>1.45</KurzDomaci>
+    <KurzRemiza>4.77</KurzRemiza>
+    <KurzHoste>7.43</KurzHoste>
+    <Vysledek>hoste</Vysledek>
+  </Zapas>
+  <Zapas>
+    <Domaci>Real Madrid</Domaci>
+    <Hoste>AC Milan</Hoste>
+    <KurzDomaci>1.44</KurzDomaci>
+    <KurzRemiza>5.16</KurzRemiza>
+    <KurzHoste>6.84</KurzHoste>
+    <Vysledek>hoste</Vysledek>
+  </Zapas>
+  <Zapas>
+    <Domaci>Sparta Praha</Domaci>
+    <Hoste>Brest</Hoste>
+    <KurzDomaci>2.97</KurzDomaci>
+    <KurzRemiza>3.09</KurzRemiza>
+    <KurzHoste>2.73</KurzHoste>
+    <Vysledek>hoste</Vysledek>
+  </Zapas>
+  <Zapas>
+    <Domaci>Aston Villa</Domaci>
+    <Hoste>Juventus</Hoste>
+    <KurzDomaci>2.24</KurzDomaci>
+    <KurzRemiza>3.25</KurzRemiza>
+    <KurzHoste>3.65</KurzHoste>
+    <Vysledek>remiza</Vysledek>
+  </Zapas>
+  <Zapas>
+    <Domaci>Leverkusen</Domaci>
+    <Hoste>Inter Milan</Hoste>
+    <KurzDomaci>2.28</KurzDomaci>
+    <KurzRemiza>3.29</KurzRemiza>
+    <KurzHoste>3.51</KurzHoste>
+    <Vysledek>domaci</Vysledek>
+  </Zapas>
+  <Zapas>
+    <Domaci>Atalanta</Domaci>
+    <Hoste>Real Madrid</Hoste>
+    <KurzDomaci>2.67</KurzDomaci>
+    <KurzRemiza>3.58</KurzRemiza>
+    <KurzHoste>2.69</KurzHoste>
+    <Vysledek>hoste</Vysledek>
+  </Zapas>
+</ArrayOfZapas>

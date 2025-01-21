@@ -8,14 +8,16 @@ namespace FootballBetTwo
 {
     public class Zapas
     {
-        public string   Domaci { get; set; }
-        public string   Hoste { get; set; }
-        public double   KurzDomaci { get; set; }
-        public double   KurzRemiza { get; set; }
-        public double   KurzHoste { get; set; }
-        public string   Vysledek { get; set; }
+        public string?   Domaci { get; set; }
+        public string?   Hoste { get; set; }
+        public decimal?  KurzDomaci { get; set; }
+        public decimal?  KurzRemiza { get; set; }
+        public decimal?  KurzHoste { get; set; }
+        public string?   Vysledek { get; set; }
 
-        public Zapas (string domaci, string hoste, double kurzDomaci, double kurzRemiza, double kurzHoste, string vysledek)
+        public Zapas() { }
+
+        public Zapas (string domaci, string hoste, decimal kurzDomaci, decimal kurzRemiza, decimal kurzHoste, string vysledek)
         {
             Domaci = domaci;
             Hoste = hoste;

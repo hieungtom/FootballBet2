@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUcet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ucet>
+    <Username>admin</Username>
+    <Heslo>jGl25bVBBBW96Qi9Te4V37Fnqchz/Eu4qB9vKrRIqRg=</Heslo>
+    <Zustatek>166.706606</Zustatek>
+  </Ucet>
+  <Ucet>
+    <Username>123</Username>
+    <Heslo>pmWkWSBCL51Bfkhn79xPuKBKHz//H6B+mY6G9/eieuM=</Heslo>
+    <Zustatek>2883.790600</Zustatek>
+  </Ucet>
+  <Ucet>
+    <Username>b</Username>
+    <Heslo>PiPoFgA5WUoziU9lZOGxNIu9egCI1CxKy3PurtWcAJ0=</Heslo>
+    <Zustatek>100.31</Zustatek>
+  </Ucet>
+  <Ucet>
+    <Username>cao</Username>
+    <Heslo>1LKj+c77ZzWMdw9Y5yUHw1VGt4V/s3M5YYRo85LHRnQ=</Heslo>
+    <Zustatek>0.0019639235786956036918</Zustatek>
+  </Ucet>
+</ArrayOfUcet>

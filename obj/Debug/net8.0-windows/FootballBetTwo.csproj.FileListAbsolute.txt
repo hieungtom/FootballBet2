@@ -14,3 +14,6 @@ C:\Users\Tomas\skola\2 - komponentova tvorba\FootballBetTwo\obj\Debug\net8.0-win
 C:\Users\Tomas\skola\2 - komponentova tvorba\FootballBetTwo\obj\Debug\net8.0-windows\FootballBetTwo.genruntimeconfig.cache
 C:\Users\Tomas\skola\2 - komponentova tvorba\FootballBetTwo\obj\Debug\net8.0-windows\ref\FootballBetTwo.dll
 C:\Users\Tomas\skola\2 - komponentova tvorba\FootballBetTwo\obj\Debug\net8.0-windows\FootballBetTwo.BetApp.resources
+C:\Users\Tomas\skola\2 - komponentova tvorba\FootballBetTwo\obj\Debug\net8.0-windows\FootballBetTwo.LoginForm.resources
+C:\Users\Tomas\skola\2 - komponentova tvorba\FootballBetTwo\obj\Debug\net8.0-windows\FootballBetTwo.Properties.Resources.resources
+C:\Users\Tomas\skola\2 - komponentova tvorba\FootballBetTwo\obj\Debug\net8.0-windows\FootballBetTwo.RegistrForm.resources
