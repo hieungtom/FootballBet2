@@ -104,7 +104,7 @@ namespace FootballBetTwo
                     string zvolenaPrilezitost;
                     decimal vybranyKurz = (decimal)vybranaBunka.Value;
 
-                    //ulozeni vyybrane prilezitosti
+                    //ulozeni typu vyybrane prilezitosti
                     switch (nazevSloupce)
                     {
                         case "KurzDomaci":
@@ -120,18 +120,18 @@ namespace FootballBetTwo
                             return;
                     }
                     var prilezitost = new Prilezitost { Zapas = zapas, ZvolenaPrilezitost = zvolenaPrilezitost, VybranyKurz = vybranyKurz };
-                    var vybranaPrilezitost = (Prilezitost)vybranyRadek.Tag;
+                    var vybranyZapas = (Prilezitost)vybranyRadek.Tag;
 
-                    if (vybranaPrilezitost == null) //pridani prilezitosti
+                    if (vybranyZapas == null) //kontrola jestli se jiz dany zapas nevybral
                     {
-                        tiket.PridejPrilezitost(prilezitost);
+                        tiket.PridejPrilezitost(prilezitost); //pridani prilezitosti
                         vybranyRadek.Tag = prilezitost;
                         vybranaBunka.Style.BackColor = Color.DodgerBlue;
                         vybranaBunka.Style.ForeColor = Color.White;
                     }
-                    else if (vybranaPrilezitost.ZvolenaPrilezitost == zvolenaPrilezitost) //odstraneni vybrane prilezitosti
+                    else if (vybranyZapas.ZvolenaPrilezitost == zvolenaPrilezitost) //kliknuti na jiz vybranou prilezitost
                     {
-                        tiket.OdeberPrilezitost(vybranaPrilezitost);
+                        tiket.OdeberPrilezitost(vybranyZapas); //odstraneni vybrane prilezitosti
                         vybranyRadek.Tag = null;
                         vybranaBunka.Style.BackColor = Color.White;
                         vybranaBunka.Style.ForeColor = Color.Black;
