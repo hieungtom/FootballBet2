@@ -1,1 +1,1 @@
-Stav projektu - nedokončen
+Stav projektu - 80%
