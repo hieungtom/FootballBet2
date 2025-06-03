@@ -5,6 +5,8 @@
 
 <p>Possible improvements for the future could be not being able to bet on matches that the user already has made a bet on, loading matches from a database instead of an XML file.</p>
 
+<h2>Some screens of the application</h2>
+
 ![image](https://github.com/user-attachments/assets/6917eb88-90b8-47c4-9e48-3d1907c1331a)
 
 ![image](https://github.com/user-attachments/assets/d359b3b4-04ac-4974-909b-e28546b145f1)
