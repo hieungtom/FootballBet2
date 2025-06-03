@@ -12,7 +12,7 @@
 
 <p>Working with objects and classes.</p>
 
-<p>Trying to make the code clean / dry with no duplicate code.</p>
+<p>Trying to make the code clean / dry with less duplicate code.</p>
 
 <p>Serializing / deserializing data from an XML file.</p>
 
